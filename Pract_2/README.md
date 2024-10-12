@@ -1,7 +1,7 @@
 # Практика 2: Исследование атак на модели ИИ. Fast Gradient Sign Method (FGSM)
 Выполнил студент группы ББМО-01-23 Курдюков А.А.
 
-Ссылка на notebook в Google colab:
+Ссылка на notebook в Google colab: https://colab.research.google.com/drive/1jVQAMdX1lpWK2Glbo28LSsmKoHpHmo2j?usp=sharing
 
 ## Цель задания:
 
