@@ -1,7 +1,7 @@
 # Практика 3: Атака Carlini-Wagner (CW) на модели ИИ
 Выполнил студент группы ББМО-01-23 Курдюков А.А.
 
-Ссылка на notebook в Google colab: https://colab.research.google.com/drive/1zkpRsSXe6rIexVj0DYyVBuwXI_mjqjgs?usp=sharing
+Ссылка на notebook в Google colab: https://colab.research.google.com/drive/12SLGWJoQBLkIQQBp001qMupLHPR5ocGc?usp=sharing
 
 ## Цель задания:
 
