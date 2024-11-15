@@ -2,7 +2,7 @@
 
 Выполнил студент группы ББМО-01-23 Курдюков А.А.
 
-Ссылка на notebook в Google colab: 
+Ссылка на notebook в Google colab: https://colab.research.google.com/drive/1zoabBCRFqQqvjQO6Xvxoy2ozx2pH1WUM?usp=sharing
 
 ## Цель задания:
 
